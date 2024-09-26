@@ -2,8 +2,8 @@ package OOPS;
 
 
 class Stu{
-//	String Sname;
-//	int rollno;
+	String Sname;
+	int rollno;
 	
 	public void setValues(String name,int roll) {
 
